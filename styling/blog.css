@@ -6,6 +6,7 @@
     padding: 0;
 }
 
+/*Make your website available for different screens*/
 .grid {
     display: grid;
     grid-template-columns: 1fr;
@@ -33,6 +34,7 @@
     margin-bottom: 5px;
 }
 
+/*Add new font-family to the card presenting an author*/
 .author-info {
     grid-area: author-info;
     display: flex;
